@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/Yc8fKWS/profile.png",
+      "blog_cover_img": "https://i.ibb.co.com/RP0dwrG/1.jpg",
+      "title": "The Future of Web Development",
+      "reading_time": "5 ",
+      "hashtags": ["#WebDevelopment", "#Technology", "#Future"],
+      "date": "2024-11-18"
+    },
+    {
+      "id": 2,
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/xLrRfRj/boy1.png",
+      "blog_cover_img": "https://i.ibb.co.com/Pg5ffxZ/2.png",
+      "title": "10 Tips for Better Productivity",
+      "reading_time": "3 ",
+      "hashtags": ["#Productivity", "#Tips", "#LifeHacks"],
+      "date": "2024-11-17"
+    },
+    {
+      "id": 3,
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co.com/mSR9RvV/girl1.jpg",
+      "blog_cover_img": "https://i.ibb.co.com/zrnWWc2/3.png",
+      "title": "Exploring AI in Everyday Life",
+      "reading_time": "8",
+      "hashtags": ["#AI", "#Innovation", "#TechTrends"],
+      "date": "2024-11-16"
+    }
+  ]
+  
